@@ -61,19 +61,6 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o5harshit&show_icons=true&theme=react&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=o5harshit&theme=react&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o5harshit&layout=compact&theme=react&hide_border=true" height="150" />
-</p>
-
----
-
 ### 🪄 Activity Graph  
 ![Harshit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=o5harshit&theme=react-dark&hide_border=true)
 
