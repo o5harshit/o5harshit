@@ -16,7 +16,6 @@
 - 💼 **Backend Developer Intern @ Clinix Sphere** — built scalable APIs and cron automation  
 - 🧠 Exploring **AI-powered apps** with **Gemini API + MERN Stack**  
 - ⚡ Love clean code, logical design, and interactive UIs  
-- 🎯 Goal: Full Stack / SDE Role in 2025  
 
 ---
 
